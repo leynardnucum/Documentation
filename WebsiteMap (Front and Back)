@@ -1,1 +1,54 @@
+Front End:
 
+Home
+  Newsfeed
+    looking for
+    friends' activity
+  Browse
+    trending
+    hottest/sale
+Notification
+  Alerts
+  Status
+  Feedbacks
+  New Sales Information
+Social
+  Profile
+  manage friends
+  Account settings
+  account customizations
+Categories
+  All categories
+    newest
+    lowest
+    hottest
+    
+    
+Back End:
+Accounts
+  username
+  password
+  email
+  social (friends list)
+  items bought
+  items sold
+  mode payment
+  TP(?)
+  Location
+  Other acc info
+  acc posts
+Items
+  item name
+  item id
+  item qty
+  item price
+  item status
+  upvotes
+  downvotes
+  comments
+trending
+  hottest
+  sale
+categories
+(diff table per category)
+  top
