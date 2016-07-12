@@ -12,4 +12,10 @@ SCOPE OF THE PROJECT
 
 6. Easy checkout process.
 
-7. 
+7. Heuriskó require as little as possible from the user. The user only needs to create an account before proceeding to checkout.
+
+8. Heuriskó will show the total as you proceed to checkout. 
+
+9. The user will be able to veiw their cart contents.
+
+10. Cash on delivery will be available. 
